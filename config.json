@@ -1,0 +1,135 @@
+{
+  "name": "Sara Oliveira",
+  "job": "Dev Front-End",
+  "github": "oliveiransara",
+  "playlists": {
+    "games": [
+      {
+        "title": "Introdução à programação de jogos em C# (Aula 01 - Variáveis e Métodos)",
+        "url": "https://www.youtube.com/embed/QbeUlT_MuZ0",
+        "thumb": "https://img.youtube.com/vi/QbeUlT_MuZ0/hqdefault.jpg"
+      },
+      {
+        "title": "Mario Game Tutorial with JavaScript and HTML Canvas",
+        "url": "https://www.youtube.com/embed/4q2vvZn5aoo",
+        "thumb": "https://img.youtube.com/vi/4q2vvZn5aoo/hqdefault.jpg"
+      },
+      {
+        "title": "CRIANDO O MUNDO E A HISTÓRIA | CYBERWAR - DEVLOG #2",
+        "url": "https://www.youtube.com/embed/7zW3Ahj2XrU",
+        "thumb": "https://img.youtube.com/vi/7zW3Ahj2XrU/hqdefault.jpg"
+      },
+      {
+        "title": "Como criar um jogo SIMPLES usando JavaScript e HTML | JavaScript para iniciantes - Tutorial",
+        "url": "https://www.youtube.com/embed/r9buAwVBDhA",
+        "thumb": "https://img.youtube.com/vi/r9buAwVBDhA/hqdefault.jpg"
+      },
+      {
+        "title": "APRENDA UNITY | TUTORIAL PARA INICIANTES",
+        "url": "https://www.youtube.com/embed/hMrPCkCqb4U",
+        "thumb": "https://img.youtube.com/vi/hMrPCkCqb4U/hqdefault.jpg"
+      },
+      {
+        "title": "GOD OF WAR 2 Full Game Walkthrough - No Commentary (#GodofWar2 Full Game) 2018",
+        "url": "https://www.youtube.com/embed/4TOy_8_h4n4",
+        "thumb": "https://img.youtube.com/vi/4TOy_8_h4n4/hqdefault.jpg"
+      },
+      {
+        "title": "Como Programar um Jogo 2D em JavaScript! (2022)",
+        "url": "https://www.youtube.com/embed/BDXrn-_f-0U",
+        "thumb": "https://img.youtube.com/vi/BDXrn-_f-0U/hqdefault.jpg"
+      },
+      {
+        "title": "COMO CRIAR UM JOGO NA UNITY | TUTORIAL COMPLETO",
+        "url": "https://www.youtube.com/embed/8PZdY_VfOOI",
+        "thumb": "https://img.youtube.com/vi/8PZdY_VfOOI/hqdefault.jpg"
+      }
+    ],
+    "front-end": [
+      {
+        "title": "Onde, como e o que praticar e estudar como Front End em 2022? FREE 0800",
+        "url": "https://www.youtube.com/embed/rk9WA1PXsYs",
+        "thumb": "https://img.youtube.com/vi/rk9WA1PXsYs/hqdefault.jpg"
+      },
+      {
+        "title": "Como fazer efeito de desenhar com CSS e SVG? #DicasDeCSS | Dev Soutinho",
+        "url": "https://www.youtube.com/embed/4cEMgap9wpk",
+        "thumb": "https://img.youtube.com/vi/4cEMgap9wpk/hqdefault.jpg"
+      },
+      {
+        "title": "TypeScript com ReactJS, Redux e Redux Saga | Diego Fernandes",
+        "url": "https://www.youtube.com/embed/OXxul6AvXNs",
+        "thumb": "https://img.youtube.com/vi/OXxul6AvXNs/hqdefault.jpg"
+      },
+
+      {
+        "title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
+        "url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
+        "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
+      },
+      {
+        "title": "COMEÇANDO NO REACT.JS EM 2022",
+        "url": "https://www.youtube.com/embed/pDbcC-xSat4",
+        "thumb": "https://img.youtube.com/vi/pDbcC-xSat4/hqdefault.jpg"
+      },
+      {
+        "title": "O que é React JS? #HipstersPontoTube",
+        "url": "https://www.youtube.com/embed/6IuQUgeDPg0",
+        "thumb": "https://img.youtube.com/vi/6IuQUgeDPg0/hqdefault.jpg"
+      },  
+      {
+        "title": "React JS - MELHOR GUIA para Iniciantes! (2020)",
+        "url": "https://www.youtube.com/embed/Ws9WVHhNq5M",
+        "thumb": "https://img.youtube.com/vi/Ws9WVHhNq5M/hqdefault.jpg"
+      },
+      {
+        "title": "React vs Flutter Web, qual opção utilizar nos seus projetos? Flutter é 'mais pesado'?",
+        "url": "https://www.youtube.com/embed/6fe3DYGpCzs",
+        "thumb": "https://img.youtube.com/vi/6fe3DYGpCzs/hqdefault.jpg"
+      },
+
+      {
+        "title": "5 Erros Históricos do CSS",
+        "url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
+        "thumb": "https://img.youtube.com/vi/HNjkqONzGS0/hqdefault.jpg"
+      }
+    ],
+    "back-end": [
+      {
+        "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+        "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
+        "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+      },
+      {
+        "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+        "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
+        "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
+      },
+      {
+        "title": "O que é o Java? #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=90NcVNsKGik",
+        "thumb": "https://img.youtube.com/vi/90NcVNsKGik/hqdefault.jpg"
+      },
+      {
+        "title": "O que é Machine Learning? #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
+        "thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
+      },
+      {
+        "title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
+        "thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
+      },
+      {
+        "title": "Top 5 libs que todo aplicativo Android deve ter com Alex Felipe | #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=ldRbnpy-qQs",
+        "thumb": "https://img.youtube.com/vi/ldRbnpy-qQs/hqdefault.jpg"
+      },
+      {
+        "title": "O que é o C#? #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
+        "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
+      }
+    ]
+  }
+}
