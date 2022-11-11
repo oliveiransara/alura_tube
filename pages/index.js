@@ -18,7 +18,9 @@ function HomePage() {
       >
         <Menu />
         <Header />
-        <TimeLine playlists={config.playlists}>Conteúdo</TimeLine>
+        <TimeLine playlists={config.playlists} favorites={config.favorites}>
+          Conteúdo
+        </TimeLine>
       </div>
     </>
   )

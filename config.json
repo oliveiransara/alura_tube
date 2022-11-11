@@ -2,6 +2,19 @@
   "name": "Sara Oliveira",
   "job": "Dev Front-End",
   "github": "oliveiransara",
+  "favorites": [
+    {
+      "name": "@mariosouto",
+      "url": "https://www.youtube.com/c/DevSoutinho",
+      "github": "omariosouto"
+    },
+    {
+      "name": "@aluraonline",
+      "url": "https://www.youtube.com/c/Alura",
+      "github": "alura-cursos"
+    }
+
+  ],
   "playlists": {
     "games": [
       {

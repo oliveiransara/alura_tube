@@ -9,12 +9,14 @@ export const CSSReset = createGlobalStyle`
   }
   body {
     font-family: sans-serif;
+    overflow-x: hidden;
   }
   /* NextJS */
   html {
     display: flex;
     flex-direction: column;
     min-height: 100%;
+
   }
   body {
     display: flex;
