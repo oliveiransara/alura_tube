@@ -1,11 +1,9 @@
-import { CSSReset } from '../components/CSSReset'
-import config from '../config.json'
+import React from 'react'
+import { CSSReset } from '../public/CSSReset'
 
-import Header from '../components/Header'
-import Menu from '../components/Menu'
-import TimeLine from '../components/TimeLine'
+import TimeLine from '../src/TimeLine'
 
-function HomePage() {
+function Home() {
   return (
     <>
       <CSSReset />
@@ -16,14 +14,10 @@ function HomePage() {
           flex: 1,
         }}
       >
-        <Menu />
-        <Header />
-        <TimeLine playlists={config.playlists} favorites={config.favorites}>
-          Conteúdo
-        </TimeLine>
+        <TimeLine />
       </div>
     </>
   )
 }
 
-export default HomePage
+export default Home

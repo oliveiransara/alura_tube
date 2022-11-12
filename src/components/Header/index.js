@@ -1,5 +1,6 @@
-import config from '../config.json'
-import { StyledHeader, Banner } from './StyledHeader'
+import config from '../../../config.json'
+
+import { StyledHeader, Banner } from './styles'
 
 export default function Header() {
   return (
