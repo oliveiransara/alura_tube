@@ -1,21 +1,22 @@
 import React from 'react'
 
 import { Logo } from '../../../public/Logo'
-import Search from './Search'
+import Search from '../Search'
+import DarkModeSwitch from '../PageTheme/DarkModeSwitch'
 
-import { StyledMenu } from './styles'
+import { Container } from './styles'
 
-export default function Menu({ valorDoFiltro, setValorDoFiltro }) {
-
+export default function Menu({ filterValue, setFilterValue }) {
   return (
-    <StyledMenu>
+    <Container>
       <div>
         <Logo />
       </div>
       <Search
-        valorDoFiltro={valorDoFiltro}
-        setValorDoFiltro={setValorDoFiltro}
+        filterValue={filterValue}
+        setFilterValue={setFilterValue}
       />
-    </StyledMenu>
+      <DarkModeSwitch />
+    </Container>
   )
 }

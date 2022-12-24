@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Atividade 3</title>
+  </head>
+  <body>
+    <h1>ÁREA DO USUÁRIO</h1>
+    <div>
+      <h4 style="font-family: verdana;">Digite seu nome de usuário e senha:</h4>
+    </div>
+    <form action="home2.html" method="post">
+      <p>usuário: <input type="text" id="usuário" name="usuário" /></p>
+      <p>password: <input type="senha" id="senha" name="senha" /></p>
+
+      <input type="reset" name="cancelar" value="cancelar" />
+
+      <input type="submit" onclick="enviar(); return false" />
+    </form>
+
+    <script>
+      function enviar() {
+        var login = document.getelementsbyid("usuário").value;
+        var senha = document.getelementsbyid("senha").value;
+      }
+    </script>
+  </body>
+</html>

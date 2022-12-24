@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 
-export const StyledTimeline = styled.div`
+export const Container = styled.div`
   flex: 1;
   width: 100%;
   padding: 16px;
@@ -48,7 +48,7 @@ export const StyledTimeline = styled.div`
   }
 `
 
-export const Favorites = styled.div`
+export const FavoritesContainer = styled.div`
   display: flex;
   list-style: none;
 
@@ -79,6 +79,6 @@ export const FavoritesList = styled.div`
     padding: 6px;
   }
   a {
-    color: #000000;
+    color: ${({ theme }) => theme.textColorBase};
   }
 `
